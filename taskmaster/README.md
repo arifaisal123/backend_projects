@@ -11,6 +11,7 @@ With TaskMaster, you can create, track, and prioritize your daily, weekly, or mo
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
+- [Disclaimer](#disclaimer)
 
 ## Overview
 
@@ -29,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/arifaisal123/frontend_projects/tree/main/frontend_challenges/tip_calculator](https://github.com/arifaisal123/frontend_projects/tree/main/frontend_challenges/tip_calculator)
-- Live Site URL: [https://arifaisal123.github.io/frontend_projects/frontend_challenges/tip_calculator](https://arifaisal123.github.io/frontend_projects/frontend_challenges/tip_calculator)
+- Github URL: [https://github.com/arifaisal123/backend_projects/tree/main/taskmaster](https://github.com/arifaisal123/backend_projects/tree/main/taskmaster)
+- Live Site URL: [https://daily-task-manager.onrender.com](https://daily-task-manager.onrender.com)
 
 ## My process
 
@@ -39,12 +40,12 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
-- SCSS/ Sass
-- Vanilla JS
+- Backend: Flask 
 
 ## Author
 
 - Website - [Arif Faisal](https://arifaisal123.github.io)
-- Frontend Mentor - [@arifaisal123](https://www.frontendmentor.io/profile/arifaisal123)
 - Twitter - [@faisalcodes123](https://www.twitter.com/faisalcodes123)
+
+## Disclaimer
+This is a test project, and it currently does not have session management, or any user auth system. Therefore, tasks provided by other users are visible.
